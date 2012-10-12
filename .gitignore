@@ -1,27 +1,24 @@
-*.py[co]
-
-# Packages
-*.egg
-*.egg-info
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-.installed.cfg
-
-# Installer logs
-pip-log.txt
-
-# Unit test / coverage reports
-.coverage
-.tox
-
-#Translations
-*.mo
-
-#Mr Developer
-.mr.developer.cfg
+*.pyc
+AmoebaWorld.py
+CellWorld.py
+color_list.py
+Graph
+Graph.pyc
+GraphWorld.py
+GraphWorld.py~
+GraphWorld.pyc
+Gui.py
+Gui.pyc
+__init__.py
+Lumpy.py
+mutex.py
+random
+RandomGraph.pyc
+structshape.py
+Sync.py
+thinkcomplexity
+Think_Complexity.pdf
+TurmiteWorld.py
+turtle_code.py
+TurtleWorld.py
+World.py
